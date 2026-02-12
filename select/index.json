@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プルシュルポット",
+  "base_artist": "プッシュプルポット",
+  "createdAt": "2026-02-12T09:38:32.067691Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プルシュルポット",
+      "artist": "プッシュプルポット",
+      "has_synced": false,
+      "path": "select/pl_01_プルシュルポット_プッシュプルポット.txt"
+    }
+  ]
+}
